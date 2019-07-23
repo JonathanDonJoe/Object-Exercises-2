@@ -1,0 +1,12 @@
+:root {
+    box-sizing: border-box;
+    --borders: black 1px solid;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+*,*::before,*::after{
+    box-sizing: border-box;
+}
